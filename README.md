@@ -10,50 +10,40 @@ Um estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvendo projet
 ```html
 <!-- Pac-Man Animado para README -->
 <svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
-  <!-- fundo opcional -->
-  <rect width="300" height="80" fill="#0d1117" rx="8"></rect>
+  <rect width="300" height="80" fill="#0d1117" rx="8" />
 
   <!-- Pellets -->
   <g fill="#ffd54a">
-    <circle cx="80" cy="40" r="5"/>
-    <circle cx="130" cy="40" r="5"/>
-    <circle cx="180" cy="40" r="5"/>
-    <circle cx="230" cy="40" r="5"/>
+    <circle cx="80" cy="40" r="5" />
+    <circle cx="130" cy="40" r="5" />
+    <circle cx="180" cy="40" r="5" />
+    <circle cx="230" cy="40" r="5" />
   </g>
 
   <!-- Pac-Man -->
-  <g>
-    <circle id="pac" cx="0" cy="40" r="18" fill="#ffe600" />
+  <g id="pacman">
+    <circle id="pac" cx="20" cy="40" r="18" fill="#ffe600" />
 
     <!-- Boca -->
-    <polygon id="mouth" points="0,40 18,28 18,52" fill="#0d1117" />
+    <polygon id="mouth" points="20,40 38,28 38,52" fill="#0d1117" />
 
     <!-- Animação de movimento -->
     <animateTransform
-      xlink:href="#pac"
+      href="#pacman"
       attributeName="transform"
-      attributeType="XML"
       type="translate"
-      from="0 0" to="260 0"
+      from="0 0"
+      to="260 0"
       dur="3s"
       repeatCount="indefinite" />
 
-    <animateTransform
-      xlink:href="#mouth"
-      attributeName="transform"
-      attributeType="XML"
-      type="translate"
-      from="0 0" to="260 0"
-      dur="3s"
-      repeatCount="indefinite" />
-
-    <!-- Animação boca abrindo/fechando -->
+    <!-- Boca abrindo e fechando -->
     <animate
-      xlink:href="#mouth"
+      href="#mouth"
       attributeName="points"
       dur="0.35s"
       repeatCount="indefinite"
-      values="0,40 18,28 18,52; 0,40 5,38 5,42; 0,40 18,28 18,52" />
+      values="20,40 38,28 38,52; 20,40 25,38 25,42; 20,40 38,28 38,52" />
   </g>
 </svg>
 ```
