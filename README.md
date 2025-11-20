@@ -4,7 +4,7 @@ Um estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvendo projet
 
 ---
 
-### 🟡 Pac-Man Animado (gráfico exclusivo)
+### 🟡 Pac‑Man Animado (gráfico exclusivo)
 *Visual único, minimalista e realmente animado dentro do README*
 
 ```html
