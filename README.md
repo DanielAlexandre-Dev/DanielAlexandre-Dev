@@ -1,56 +1,33 @@
-<!-- Banner ou frase de destaque -->
-<h1 align="center">👋 Olá, eu sou o Daniel!</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  Estudante de <b>ADS na UNIT</b> | Focado em <b>Python</b> e <b>Desenvolvimento Web</b> | Apaixonado por <b>Segurança Cibernética</b>
-</p>
+###
 
----
-
-## 🚀 Sobre mim
-- 📘 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🐍 Atualmente estudando **Python**  
-- 🌐 Já desenvolvi sites usando **JavaScript**  
-- 🔧 Estudando **TypeScript** e aperfeiçoando JavaScript  
-- 📚 Inglês nível básico  
-- 🔐 Grande interesse em **Segurança Cibernética**
-
----
-
-## 📌 Meus Links
-<p align="left">
-  <a href="https://linkedin.com/in/daniel-alexandre-santos-souza-38ab562b5/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/daniel-alexandre-santos-souza-38ab562b5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  
-  <a href="https://github.com/DanielAlexandre-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="danielalexandresantossouza@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-
-  <a href="mailto:danielalexandresantossouza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="79991933260" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-</p>
+</div>
 
----
+###
 
-## 🛠️ Tecnologias & Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+</div>
 
----
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<h3 align="center">✨ Sempre aprendendo, sempre evoluindo ✨</h3>
+###
