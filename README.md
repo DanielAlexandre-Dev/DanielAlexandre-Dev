@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Daniel Alexandre</h1>
+<p align="center"><b>Estudante de ADS | Python | JavaScript | Segurança Cibernética</b></p>
 
-<!--
-**DanielAlexandre-Dev/DanielAlexandre-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNIT)**
+- 🐍 Focado em **Python**
+- 🌐 Experiência com **JavaScript** e iniciando em **TypeScript**
+- 🔐 Interesse em **Segurança Cibernética**
+- 📘 Inglês nível básico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Contato
+[LinkedIn]((https://www.linkedin.com/in/daniel-alexandre-santos-souza-38ab562b5/)) • [GitHub]((https://github.com/DanielAlexandre-Dev)) • [E-mail](danielalexandresantossouza@gmail.com)
+
+---
+
+## Tecnologias
+`Python` • `JavaScript` • `TypeScript` • `HTML` • `CSS`
+
+---
+
+<p align="center">“Sempre aprendendo.”</p>
