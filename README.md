@@ -1,73 +1,37 @@
-# 👋 Olá, eu sou DanielAlexandre-Dev
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Um estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvendo projetos em **Python**, **JavaScript** e aprendendo **TypeScript**. Estudo inglês nível básico e estou cursando faculdade na **UNIT**.
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-### 🟡 Pac‑Man Animado (gráfico exclusivo)
-*Visual único, minimalista e realmente animado dentro do README*
+###
 
-```html
-![Pac-Man Animado](./pacman.gif)
-<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="300" height="80" fill="#0d1117" rx="8" />
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-  <!-- Pellets -->
-  <g fill="#ffd54a">
-    <circle cx="80" cy="40" r="5" />
-    <circle cx="130" cy="40" r="5" />
-    <circle cx="180" cy="40" r="5" />
-    <circle cx="230" cy="40" r="5" />
-  </g>
-
-  <!-- Pac-Man -->
-  <g id="pacman">
-    <circle id="pac" cx="20" cy="40" r="18" fill="#ffe600" />
-
-    <!-- Boca -->
-    <polygon id="mouth" points="20,40 38,28 38,52" fill="#0d1117" />
-
-    <!-- Animação de movimento -->
-    <animateTransform
-      href="#pacman"
-      attributeName="transform"
-      type="translate"
-      from="0 0"
-      to="260 0"
-      dur="3s"
-      repeatCount="indefinite" />
-
-    <!-- Boca abrindo e fechando -->
-    <animate
-      href="#mouth"
-      attributeName="points"
-      dur="0.35s"
-      repeatCount="indefinite"
-      values="20,40 38,28 38,52; 20,40 25,38 25,42; 20,40 38,28 38,52" />
-  </g>
-</svg>
-```
-
----
-
-![Pac-Man](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/pacman.gif)
-
-
-### 🔗 Onde me encontrar
-- **LinkedIn:** [Clique aqui](https://www.linkedin.com)
-- **GitHub:** [DanielAlexandre-Dev](https://github.com/DanielAlexandre-Dev)
-
----
-
-### 🚀 Tech Stack
-- **Python**
-- **JavaScript**
-- **TypeScript** (estudando)
-- **HTML & CSS**
-
----
-
-### 📌 Sobre mim
-Apaixonado por aprender, criar projetos e evoluir como desenvolvedor. Buscando oportunidades para entrar no mercado de tecnologia.
-
----
+###
