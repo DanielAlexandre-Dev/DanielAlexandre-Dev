@@ -8,7 +8,7 @@ Um estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvendo projet
 *Visual único, minimalista e realmente animado dentro do README*
 
 ```html
-<!-- Pac-Man Animado para README -->
+![Pac-Man Animado](./pacman.gif)
 <svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
   <rect width="300" height="80" fill="#0d1117" rx="8" />
 
@@ -49,6 +49,9 @@ Um estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvendo projet
 ```
 
 ---
+
+![Pac-Man](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/pacman.gif)
+
 
 ### 🔗 Onde me encontrar
 - **LinkedIn:** [Clique aqui](https://www.linkedin.com)
