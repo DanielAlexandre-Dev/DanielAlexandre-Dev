@@ -1,39 +1,62 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-</div>
-
-###
-
 # 👋 Olá, eu sou DanielAlexandre-Dev
 
 Um estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvendo projetos em **Python**, **JavaScript** e aprendendo **TypeScript**. Estudo inglês nível básico e estou cursando faculdade na **UNIT**.
 
 ---
 
-### 🟡 Minha Cobrinha estilo Pac-Man
-*Visual minimalista para deixar o README mais bonito*
+### 🟡 Pac-Man Animado (gráfico exclusivo)
+*Visual único, minimalista e realmente animado dentro do README*
 
-![pacman-snake](https://raw.githubusercontent.com/DanielAlexandre-Dev/DanielAlexandre-Dev/output/github-contribution-grid-snake-dark-pacman.svg)
+```html
+<!-- Pac-Man Animado para README -->
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- fundo opcional -->
+  <rect width="300" height="80" fill="#0d1117" rx="8"></rect>
+
+  <!-- Pellets -->
+  <g fill="#ffd54a">
+    <circle cx="80" cy="40" r="5"/>
+    <circle cx="130" cy="40" r="5"/>
+    <circle cx="180" cy="40" r="5"/>
+    <circle cx="230" cy="40" r="5"/>
+  </g>
+
+  <!-- Pac-Man -->
+  <g>
+    <circle id="pac" cx="0" cy="40" r="18" fill="#ffe600" />
+
+    <!-- Boca -->
+    <polygon id="mouth" points="0,40 18,28 18,52" fill="#0d1117" />
+
+    <!-- Animação de movimento -->
+    <animateTransform
+      xlink:href="#pac"
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0" to="260 0"
+      dur="3s"
+      repeatCount="indefinite" />
+
+    <animateTransform
+      xlink:href="#mouth"
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0" to="260 0"
+      dur="3s"
+      repeatCount="indefinite" />
+
+    <!-- Animação boca abrindo/fechando -->
+    <animate
+      xlink:href="#mouth"
+      attributeName="points"
+      dur="0.35s"
+      repeatCount="indefinite"
+      values="0,40 18,28 18,52; 0,40 5,38 5,42; 0,40 18,28 18,52" />
+  </g>
+</svg>
+```
 
 ---
 
@@ -55,4 +78,3 @@ Um estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvendo projet
 Apaixonado por aprender, criar projetos e evoluir como desenvolvedor. Buscando oportunidades para entrar no mercado de tecnologia.
 
 ---
-
