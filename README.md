@@ -23,3 +23,36 @@
 </div>
 
 ###
+
+# 👋 Olá, eu sou DanielAlexandre-Dev
+
+Um estudante de **Análise e Desenvolvimento de Sistemas**, desenvolvendo projetos em **Python**, **JavaScript** e aprendendo **TypeScript**. Estudo inglês nível básico e estou cursando faculdade na **UNIT**.
+
+---
+
+### 🟡 Minha Cobrinha estilo Pac-Man
+*Visual minimalista para deixar o README mais bonito*
+
+![pacman-snake](https://raw.githubusercontent.com/DanielAlexandre-Dev/DanielAlexandre-Dev/output/github-contribution-grid-snake-dark-pacman.svg)
+
+---
+
+### 🔗 Onde me encontrar
+- **LinkedIn:** [Clique aqui](https://www.linkedin.com)
+- **GitHub:** [DanielAlexandre-Dev](https://github.com/DanielAlexandre-Dev)
+
+---
+
+### 🚀 Tech Stack
+- **Python**
+- **JavaScript**
+- **TypeScript** (estudando)
+- **HTML & CSS**
+
+---
+
+### 📌 Sobre mim
+Apaixonado por aprender, criar projetos e evoluir como desenvolvedor. Buscando oportunidades para entrar no mercado de tecnologia.
+
+---
+
