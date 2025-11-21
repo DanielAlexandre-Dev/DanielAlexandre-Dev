@@ -1,37 +1,45 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!-- Banner / Animação -->
+<p align="center">
+  <img src="./pacman.gif" width="180" alt="Pac-Man animado">
+</p>
 
-###
+<h1 align="center">👋 Olá, eu sou Daniel!</h1>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em evolução 🚀</p>
+
+---
+
+## 🌱 Sobre mim
+- 🎓 Estudante de **ADS** na **UNIT**  
+- 🐍 Atualmente focado em **Python**  
+- 🌐 Já desenvolvi sites com **JavaScript**  
+- 📘 Estudando **TypeScript** e aprofundando em JavaScript  
+- 📚 Estudo inglês (nível básico)  
+- 💡 Sempre buscando melhorar e criar projetos legais para fortalecer meu GitHub
+
+---
+
+## 🔧 Tecnologias que uso
+<div>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+## 📬 Contato
+📌 **LinkedIn:**  
+[linkedin.com/in/daniel-alexandre-santos-souza-38ab562b5](https://www.linkedin.com/in/daniel-alexandre-santos-souza-38ab562b5/)
 
-###
+📧 **Email:**  
+danielalexandresantossouza@gmail.com
+
+📱 **Telefone / WhatsApp:**  
+(79) 99193-3260
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
